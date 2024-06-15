@@ -1,0 +1,6 @@
+@SummerCourseOne_HostAddress = https://localhost:44347/
+
+GET {{SummerCourseOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
