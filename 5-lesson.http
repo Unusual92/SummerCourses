@@ -1,0 +1,7 @@
+@host = http://localhost:5005
+GET {{host}}/api/Posts
+Accept: application/json
+
+
+
+###
